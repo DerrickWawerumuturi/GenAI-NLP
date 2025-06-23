@@ -1,0 +1,2 @@
+Requirement already satisfied: portalocker in c:\users\user\genai&nlp\.venv\lib\site-packages (3.1.1)
+Requirement already satisfied: pywin32>=226 in c:\users\user\genai&nlp\.venv\lib\site-packages (from portalocker) (310)
